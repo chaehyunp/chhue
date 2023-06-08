@@ -9,5 +9,34 @@ export type RootScreenList = {
 export type LoginNavScreenList = {
     Login:undefined,
     SignUp:undefined,
-    ResetPassword:undefined
+    ResetPassword:undefined,
+
+    //MainNav로 이동할 수 있도록 등록
+    MainNav:undefined
+}
+
+//3. MainNav BottomTabNavigator 화면 리스트 타입
+export type MainNavScreenList = {
+    MovieNav:undefined,
+    Favorite:undefined,
+    Community:undefined
+
+}
+
+//4. MovieNav Stack Navigator 화면 리스트
+export type MovieNavScreenList = {
+    MovieList:undefined,
+    MovieDetail:undefined
+
+    //로그아웃시 Intro 화면으로 이동할 수 있도록 등록
+    Intro:undefined
+}
+
+//영화 1개의 정보 타입 -json object의 모든 key를 반드시 사용하지 않아도 됨
+export interface MovieInfo{
+    id:string,
+    title:string,
+    year:string,
+    genres:string[],
+    large_cover_image:string
 }

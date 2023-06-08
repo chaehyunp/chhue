@@ -18,15 +18,16 @@ const RootStack = createStackNavigator<RootScreenList>()
 //최상위 Navigator에 의해 전환될 스크린 or Navigator import
 import Intro from './Intro'
 import LoginNav from './navigators/LoginNav'
+import MainNav from './navigators/MainNav'
 
 //NavigationContainer를 가진 root 컴포넌트 - 앱의 시작 컴포넌트(index.js)
 export default function Main():JSX.Element{
     return(
         <NavigationContainer>
-            <RootStack.Navigator>
+            <RootStack.Navigator screenOptions={{headerShown:false}}>
                 <RootStack.Screen name='Intro' component={Intro}></RootStack.Screen>
                 <RootStack.Screen name='LoginNav' component={LoginNav}></RootStack.Screen>
-                {/* <RootStack.Screen name='MainNav' component={MainNav}></RootStack.Screen> */}
+                <RootStack.Screen name='MainNav' component={MainNav}></RootStack.Screen>
             </RootStack.Navigator>
         </NavigationContainer>
     )

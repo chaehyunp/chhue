@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 import { View,Text,StyleSheet,Button } from 'react-native'
 
 // 공통사용 컴포넌트
-import IputComponent from '../components/InputComponent'
+import InputComponent from '../components/InputComponent'
 import TabComponent from '../components/TabComponent'
 
 import { StackScreenProps } from '@react-navigation/stack'
@@ -23,6 +23,13 @@ export default function SignUp(props:SignUpProps):JSX.Element{
     const [tabs, setTabs] = useState(['전화번호','이메일']) //탭의 라벨을 string 배열로
     const [tabIndex,setTabIndex] = useState(0) //현재 선택된 탭 번호
 
+    // [ 완료 ] 버튼 클릭시 실행하는 메소드
+    const signUp = ()=>{
+        //이곳에서 서버에 정보들(이메일,전화번호,비밀번호) 전송
+        //전송작업이 끝나면 회원가입 종료 및 이전 로그인화면으로 이동
+        props.navigation.goBack()
+    }
+
     // 2. 회원가입 화면
     return(
         <View style={style.root}>
@@ -42,13 +49,37 @@ export default function SignUp(props:SignUpProps):JSX.Element{
                         })
                     }
                 </View>
-            </View>
 
-            {/* 1.2 정보입력 */}
+                {/* 1.2 정보입력 */}
+                <InputComponent placeholder={tabs[tabIndex]}></InputComponent>
+
+                {/* 1.3 이메일탭일 경우 비밀번호 입력 컴포넌트 필요 */}
+                {
+                    //if(tabIndex==1) //JSX의 {} 안에서는 if 문법 불가능
+                    //&& 연산자 이용 - 앞의 조건값이 true일때만 뒤에 따르는 실행문을 읽어들임
+                    tabIndex==1 && <InputComponent placeholder='비밀번호' secureTextEntry={true}></InputComponent>
+                }
+
+                {/* 1.4 전화번호 탭일때의 [ 다음 ] 버튼 */}
+                {
+                    tabIndex===0 && <View style={{width:'100%',marginVertical:16}}><Button title='다음' color='#252525' onPress={()=>setTabIndex(1)}></Button></View>
+                }
+
+                {/* 1.5 이메일 탭일때의 [ 완료 ] 버튼 */}
+                {
+                    tabIndex===1 && <View style={{width:'100%',marginVertical:16}}><Button title='완료' color='#252525' onPress={()=>signUp()}></Button></View>
+                }
+
+                {/* 1.6 전화번호 탭일때 입력 이유를 안내하는 메시지 표시 */}
+                {
+                    tabIndex===0 && <Text style={style.footerCopyright}>영화마을의 앱 업데이트 내용을 SMS로 수신할 수 있으며, {'\n'}언제든지 수신을 취소할 수 있습니다.</Text>
+                }
+
+            </View>
 
             {/* 2. footer 영역 */}
             <View style={style.footer}>
-                <Text style={style.info}>이미 계정이 있으시다면? <Text style={style.link} onPress={()=>props.navigation.navigate('Login')}>로그인하기</Text></Text>
+                <Text style={style.info}>이미 계정이 있으시다면? <Text style={style.link} onPress={()=>props.navigation.goBack()}>로그인하기</Text></Text>
             </View>
         </View>
     )
@@ -64,8 +95,7 @@ const style=StyleSheet.create({
         textAlign:'center',
         color:'#252525',
         fontSize:12, 
-        textDecorationLine:'underline', 
-        marginVertical:16
+        textDecorationLine:'underline'
     },
     footerCopyright:{
         textAlign:'center',
