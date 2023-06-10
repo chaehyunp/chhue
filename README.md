@@ -5,6 +5,10 @@
 
 <hr>
 
+<br>
+<br>
+<br>
+
 <div align=center>
   <h3> 💾 Tech Stack 💾 </h3> <br>
   	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
