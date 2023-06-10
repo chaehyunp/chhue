@@ -13,7 +13,9 @@
 	<img src="https://img.shields.io/badge/Php-777BB4?style=flat&logo=Php&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"/>
 	
-	
+</div>
+
+<div>
 	
 	<h3> 📚 Social & Portfolio 🎨 </h3> <br>
 	
