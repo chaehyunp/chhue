@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:93EEF3,50:A5BCFF,100:FEDCED&height=300&section=header&text=ChaeHyun's%20GITHUB&fontSize=60)
 
 <div align=center>
-  <h3> 💾 Tech Stack 📚 </h3>
+  <h3> 💾 Tech Stack 📚 </h3> <br>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=flat&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-777BB4?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
