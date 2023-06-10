@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhue&layout=compact)](https://github.com/chhue/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEDCED,50:A5BCFF,100:93EEF3&height=300&section=footer&text=android%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEDCED,50:A5BCFF,100:93EEF3&height=300&section=footer)
