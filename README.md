@@ -1,10 +1,10 @@
 ### Hue
  <img src="https://img.shields.io/badge/TypeScript-#3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
- <img src="https://img.shields.io/badge/kotlin-#61DAFB?style=flat&logo=kotlin&logoColor=white"/>
- <img src="https://img.shields.io/badge/react-#777BB4?style=flat&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/figma-#F24E1E?style=flat&logo=figma&logoColor=white"/>
- <img src="https://img.shields.io/badge/html5-#E34F26?style=flat&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/css3-#1572B6?style=flat&logo=css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
- <img src="https://img.shields.io/badge/php-#777BB4?style=flat&logo=php&logoColor=white"/>
- <img src="https://img.shields.io/badge/mysql-#4479A1?style=flat&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kotlin-#61DAFB?style=flat&logo=Kotlin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-#777BB4?style=flat&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Figma-#F24E1E?style=flat&logo=Figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Html5-#E34F26?style=flat&logo=Html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Css3-#1572B6?style=flat&logo=Css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Javascript-#F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Php-#777BB4?style=flat&logo=Php&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Mysql-#4479A1?style=flat&logo=Mysql&logoColor=white"/>
