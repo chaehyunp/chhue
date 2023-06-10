@@ -7,9 +7,9 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&center=true&width=1000&lines=%E2%8C%A8%EF%B8%8F+Tech+Stack+%F0%9F%92%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&center=false&width=1000&lines=%E2%8C%A8%EF%B8%8F+Tech+Stack+%F0%9F%92%BE)](https://git.io/typing-svg)
 
-<div align=center>
+<div align=left>
   	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
 	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ReactNative-777BB4?style=for-the-badge&logo=React&logoColor=white"/>
@@ -26,9 +26,9 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&center=true&width=1000&lines=%F0%9F%93%9A+Social+%26+Portfolio+%F0%9F%8E%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&center=false&width=1000&lines=%F0%9F%93%9A+Social+%26+Portfolio+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
-<div align=center>
+<div align=left>
 	<a href="https://velog.io/@chhue">
 		<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
 	</a>
@@ -41,9 +41,9 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&center=true&width=1000&lines=%F0%9F%93%9E+Contact+%F0%9F%93%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&center=false&width=1000&lines=%F0%9F%93%9E+Contact+%F0%9F%93%AB)](https://git.io/typing-svg)
 
-<div align=center>
+<div align=left>
 	<a href="mailto:chhue96@gmail.com">
         	<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     	</a>
