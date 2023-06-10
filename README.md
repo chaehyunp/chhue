@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:93EEF3,50:A5BCFF,100:FEDCED&height=300&section=header&text=android%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:93EEF3,50:A5BCFF,100:FEDCED&height=300&section=header&text=Hue's%20GITHUB&fontSize=60)
 
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=flat&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-777BB4?style=flat&logo=React&logoColor=white"/>
