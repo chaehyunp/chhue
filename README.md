@@ -41,6 +41,13 @@
 <br>
 
 <div align=left>
+	<h3> 📫 Contact 📫 </h3> <br>
+	<a href="mailto:chhue96@gmail.com">
+        	<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    	</a>
+</div>
+
+<div align=left>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhue&layout=compact)](https://github.com/chhue/github-readme-stats)
 	
