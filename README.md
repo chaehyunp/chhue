@@ -29,13 +29,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&center=false&width=870&lines=%F0%9F%93%9A+Social+%26+Portfolio+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 <div align=left>
+	<a href="https://www.instagram.com/de_chhue">
+		<img src="https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+	</a>
 	<a href="https://velog.io/@chhue">
 		<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
 	</a>
   	<a href="https://play.google.com/store/apps/developer?id=Hue">
 		<img src="https://img.shields.io/badge/GooglePlay-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
-	</a>
- 
+	</a> 
 </div>
 
 <br>
