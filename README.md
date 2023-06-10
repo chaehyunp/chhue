@@ -9,7 +9,7 @@
 
 
 <div align=left>
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&width=435&lines=%E2%8C%A8%EF%B8%8F+Tech+Stack+%F0%9F%92%BE)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&width=435&lines=%E2%8C%A8%EF%B8%8F+Tech+Stack+%F0%9F%92%BE)](https://git.io/typing-svg)<br>
   	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
 	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/><br>
