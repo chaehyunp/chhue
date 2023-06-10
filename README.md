@@ -13,20 +13,15 @@
 	<img src="https://img.shields.io/badge/Php-777BB4?style=flat&logo=Php&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"/>
 	
+	
+	
 	<h3> 📚 Social & Portfolio 🎨 </h3> <br>
 	
   	<a href="https://velog.io/@chhue">
 		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
   	<a href="https://play.google.com/store/apps/developer?id=Hue">
 		<img src="https://img.shields.io/badge/GooglePlay-20C997?style=flat&logo=googleplay&logoColor=white" /></a>
-	
-	
-  
-  
-  
-
-  
-  
+ 
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhue&layout=compact)](https://github.com/chhue/github-readme-stats)
