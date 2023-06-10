@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=HUE&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=ANDROID&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=000000&center=true&width=1000&lines=Chaehyun's+GitHub)](https://git.io/typing-svg)
 
