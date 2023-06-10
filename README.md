@@ -15,10 +15,13 @@
 	
 </div>
 
+<br>
+<br>
 <hr>
+<br>
+<br>
 
-<div>
-	
+<div align=center>
 	<h3> 📚 Social & Portfolio 🎨 </h3> <br>
 	
   	<a href="https://velog.io/@chhue">
