@@ -18,9 +18,11 @@
 	<h3> 📚 Social & Portfolio 🎨 </h3> <br>
 	
   	<a href="https://velog.io/@chhue">
-		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
+		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+	</a>
   	<a href="https://play.google.com/store/apps/developer?id=Hue">
-		<img src="https://img.shields.io/badge/GooglePlay-20C997?style=flat&logo=googleplay&logoColor=white" /></a>
+		<img src="https://img.shields.io/badge/GooglePlay-#414141?style=flat&logo=googleplay&logoColor=white" />
+	</a>
  
 </div>
 
