@@ -1,2 +1,10 @@
 ### Hue
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-#3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+ <img src="https://img.shields.io/badge/kotlin-#61DAFB?style=flat&logo=kotlin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/react-#777BB4?style=flat&logo=react&logoColor=white"/>
+ <img src="https://img.shields.io/badge/figma-#F24E1E?style=flat&logo=figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/html5-#E34F26?style=flat&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/css3-#1572B6?style=flat&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/php-#777BB4?style=flat&logo=php&logoColor=white"/>
+ <img src="https://img.shields.io/badge/mysql-#4479A1?style=flat&logo=mysql&logoColor=white"/>
