@@ -8,3 +8,5 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Php-777BB4?style=flat&logo=Php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhue&layout=compact)](https://github.com/chhue/github-readme-stats)
