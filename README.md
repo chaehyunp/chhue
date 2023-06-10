@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:93EEF3,50:A5BCFF,100:FEDCED&height=100&section=header)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&width=435&lines=Chaehyun's+GitHub👩‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=000000&width=435&lines=Chaehyun's+GitHub👩‍💻)](https://git.io/typing-svg)
 
 
 <hr>
