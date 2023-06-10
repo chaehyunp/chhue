@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=ylinderg&color=0:000000,100:000000&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=HUE&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=000000&width=435&lines=Chaehyun's+GitHub👩‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=000000&center=true&width=435&lines=Chaehyun's+GitHub)](https://git.io/typing-svg)
 
 
 <hr>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&width=435&lines=%E2%8C%A8%EF%B8%8F+Tech+Stack+%F0%9F%92%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&center=true&width=435&lines=%E2%8C%A8%EF%B8%8F+Tech+Stack+%F0%9F%92%BE)](https://git.io/typing-svg)
 
 <div align=left>
   	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&width=435&lines=%F0%9F%93%9A+Social+%26+Portfolio+%F0%9F%8E%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&center=true&width=435&lines=%F0%9F%93%9A+Social+%26+Portfolio+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 <div align=left>
 	<a href="https://velog.io/@chhue">
@@ -41,7 +41,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&width=435&lines=%F0%9F%93%9E+Contact+%F0%9F%93%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1&pause=10000000&color=000000&center=true&width=435&lines=%F0%9F%93%9E+Contact+%F0%9F%93%AB)](https://git.io/typing-svg)
 
 <div align=left>
 	<a href="mailto:chhue96@gmail.com">
@@ -59,4 +59,3 @@
 	
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEDCED,50:A5BCFF,100:93EEF3&height=100&section=footer)
