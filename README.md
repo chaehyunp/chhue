@@ -11,8 +11,10 @@
   <img src="https://img.shields.io/badge/Php-777BB4?style=flat&logo=Php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"/>
 
-  ## Velog
-  https://velog.io/@chhue
+  <h3> 💾 Tech Stack 📚 </h3> <br>
+  <a href="https://velog.io/@chhue">
+	  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+  </a>
   
 </div>
 
