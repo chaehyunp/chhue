@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:93EEF3,50:A5BCFF,100:FEDCED&height=300&section=header&text=ChaeHyun's%20GITHUB&fontSize=30&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:93EEF3,50:A5BCFF,100:FEDCED&height=300&section=header&text=ChaeHyun's%20GITHUB&fontSize=30&fontAlign=70&fontColor=ffffff)
 
 <div align=center>
   <h3> 💾 Tech Stack 💾 </h3> <br>
