@@ -14,7 +14,6 @@
 	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ReactNative-777BB4?style=for-the-badge&logo=React&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/><br>
-	
 	<img src="https://img.shields.io/badge/Kotlin-61DAFB?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"/>
