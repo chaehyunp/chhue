@@ -1,7 +1,7 @@
 ### Hue
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/TypeScript-#3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+ <img src="https://img.shields.io/badge/AndroidStudio-#3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
  <img src="https://img.shields.io/badge/Kotlin-#61DAFB?style=flat&logo=Kotlin&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-#777BB4?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/Figma-#F24E1E?style=flat&logo=Figma&logoColor=white"/>
