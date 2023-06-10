@@ -15,6 +15,8 @@
 	
 </div>
 
+<hr>
+
 <div>
 	
 	<h3> 📚 Social & Portfolio 🎨 </h3> <br>
