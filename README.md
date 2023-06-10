@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:93EEF3,50:A5BCFF,100:FEDCED&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:93EEF3,50:A5BCFF,100:FEDCED&height=100&section=header)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Chaehyub's+GitHub🤘)](https://git.io/typing-svg)
 
 <div align=center>
@@ -35,4 +35,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhue&layout=compact)](https://github.com/chhue/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEDCED,50:A5BCFF,100:93EEF3&height=300&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEDCED,50:A5BCFF,100:93EEF3&height=100&section=footer)
