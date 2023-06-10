@@ -47,6 +47,10 @@
     	</a>
 </div>
 
+<br>
+<br>
+<hr>
+
 <div align=left>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhue&layout=compact)](https://github.com/chhue/github-readme-stats)
