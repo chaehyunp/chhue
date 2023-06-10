@@ -6,8 +6,7 @@
 <hr>
 
 <br>
-<br>
-<br>
+
 
 <div align=center>
   <h3> 💾 Tech Stack 💾 </h3> <br>
@@ -26,7 +25,6 @@
 
 <br>
 <br>
-<br>
 
 <div align=center>
 	<h3> 📚 Social & Portfolio 🎨 </h3> <br>
@@ -39,6 +37,10 @@
  
 </div>
 
+<div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhue&layout=compact)](https://github.com/chhue/github-readme-stats)
+	
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEDCED,50:A5BCFF,100:93EEF3&height=100&section=footer)
