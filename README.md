@@ -27,9 +27,7 @@
 
 
 <div align=left>
-	<a href="https://www.instagram.com/de_chhue">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-	</a>
+	
 	<a href="https://velog.io/@chhue">
 		<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
 	</a>
